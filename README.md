@@ -13,7 +13,7 @@ A backend powered by MongoDB for an anonymous social media network.  UTA Coding 
 * [License](#license)
 
 ## Development Goals
-N/A
+1. Controllers still need to be completed before routes can be tested
 
 ## User Story
 ```
@@ -40,7 +40,6 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 2. Node.js
 3. MongoDB
 4. Express
-5. 
 
 ## References
 1. UTA Bootcamp curriculum, Module 18, instructor examples and student solved examples
